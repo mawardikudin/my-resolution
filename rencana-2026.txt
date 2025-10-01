@@ -1,8 +1,9 @@
 Rencana Tahun Depan 2026
 
-- Publish Sinta 1 atau 2
+- Publish Sinta 1, 2, dan 3
   * Jutif
-  * ComIT
+  * CommIT
+  * RABIT
 - Lakukan 1 pengabdian
   * Lakukan pengabdian di desa terpencil
-- Menyelesaikan latsar
+  * Lakukan pengabdian di sekolah
